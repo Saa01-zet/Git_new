@@ -1,0 +1,8 @@
+DEBUG=false
+API_URL=http://localhost:3000
+TIMEOUT=30
+
+# Fixed: login bug
+# New settings
+THEME=dark
+NOTIFICATIONS=true
